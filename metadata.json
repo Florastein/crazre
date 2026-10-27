@@ -1,0 +1,6 @@
+{
+  "name": "Contrl Zaid",
+  "description": "Academic project supervision platform for students, supervisors, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
